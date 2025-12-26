@@ -22,6 +22,10 @@
 </p>
 
 ---
+### 🛠 Tech Arsenal(top 5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrismukthar&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&count_private=true&include_all_commits=true" width="48%" />
+</p>
 
 ---
 
