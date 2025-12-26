@@ -22,9 +22,9 @@
 </p>
 
 ---
-### 🛠 Tech Arsenal(top 5)
+### 🛠 Tech Arsenal (Top 5)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrismukthar&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrismukthar&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&count_private=true" />
 </p>
 
 ---
@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=idrismukthar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrismukthar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrismukthar&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -44,7 +41,7 @@
 
 ### 🏆 Ghost Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idrismukthar&theme=tokyonight&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=idrismukthar&theme=tokyonight&no-bg=true" />
 </p>
 
 ---
