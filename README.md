@@ -23,25 +23,27 @@
 
 ---
 
+---
+
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idrismukthar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrismukthar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idrismukthar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrismukthar&theme=tokyonight&hide_border=true" width="94%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrismukthar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrismukthar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 Ghost Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=idrismukthar&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=idrismukthar&theme=tokyonight&no-bg=true" alt="trophies" />
 </p>
 
+---
 ---
 
 ### 📡 Contact / Connect
